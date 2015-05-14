@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "CryptoCounter"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-CryptoCounter-a8520e74-d22c-49b1-a50d-3264c5bec5f3;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
